@@ -28,7 +28,7 @@ def ask():
     try:
         if not chat_session:
             # Configure the Google Gemini API
-            genai.configure(api_key=API_KEY)
+            genai.configure(api_key=AIzaSyB_QkpxnA-oY1qrei_nUKzBgC-rOR8FBqg)
 
             generation_config = {
                 "temperature": 1,
